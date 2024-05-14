@@ -1,1 +1,5 @@
 node_modules/
+*.text
+
+postcss.config.js
+package-lock.json
